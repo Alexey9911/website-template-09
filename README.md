@@ -2,7 +2,7 @@
 
 ![Balanced Pitch Template Preview](public/image1.png)
 
-🌟 [🔗 LIVE DEMO](https://website-template-09-fxq4oq5sy-alexey9911s-projects.vercel.app) 🌟
+🌟 [🔗 LIVE DEMO](https://website-template-09.vercel.app/) 🌟
 
 👆 Click above to see the template in action!
 
