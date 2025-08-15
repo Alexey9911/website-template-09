@@ -1,6 +1,7 @@
 .footer {
   position: relative;
-  width: 100vw;
+  width: 100%;
+  max-width: 100%;
   height: 100vh;
   overflow: hidden;
 }
@@ -28,7 +29,8 @@
 .footer-nav {
   position: absolute;
   padding: 1em;
-  width: 100vw;
+  width: 100%;
+  max-width: 100%;
   display: flex;
   justify-content: space-between;
 }
@@ -44,7 +46,8 @@
 .footer-outro {
   position: absolute;
   bottom: 0;
-  width: 100vw;
+  width: 100%;
+  max-width: 100%;
   display: flex;
   justify-content: space-between;
   color: var(--color-accent);

@@ -43,6 +43,7 @@ const Footer = () => {
             123 Harmony Lane <br />
             Los Angeles, CA 90210, USA
           </p>
+          <p>Designed by Codegrid</p>
         </div>
       </div>
 

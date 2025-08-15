@@ -1,6 +1,7 @@
 import React from "react";
 import { Link } from "react-router";
 import Footer from "../../components/Footer/Footer";
+import Transition from "../../components/transition/Transition";
 import ParallaxImage from "../../components/ParallaxImage/ParallaxImage";
 
 import "./Updates.css";
@@ -203,4 +204,4 @@ const Updates = () => {
   );
 };
 
-export default Updates;
+export default Transition(Updates);
